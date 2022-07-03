@@ -16,3 +16,5 @@ Czas realizacji: 6 godzin
 
 Wersja rozszerzona:
 Wprowadzenie w aplikacji wielowątkowości przyspieszającej działanie programu.
+
+plik "Main.zip" zawiera testowe drzewo katalogów
